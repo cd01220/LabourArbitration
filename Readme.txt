@@ -1,4 +1,4 @@
-git server:   github, oschina
+git server:   github
 
 tag "ver.2.0":  2018-04-25 提交给高新区仲裁庭的版本.
 tag "ver.2.1":  2018-07-09 7月11号仲裁第一次开庭使用的最终版本.
